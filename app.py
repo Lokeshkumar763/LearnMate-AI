@@ -185,7 +185,7 @@ conversations = {}
 # 10 messages = approximately 5 user/model turns.
 #
 # This is our context-window management strategy.
-MAX_MESSAGES = 50
+MAX_MESSAGES = 12
 
 
 # --------------------------------------------------
